@@ -9,6 +9,7 @@
 
 body {
     font-family:"Poppins", sans-serif;
+    background-color: #F7E7CE   ;
 }
 
 html {
@@ -324,6 +325,7 @@ section {
     font-weight: 600;
     font-size: 1.75rem;
     margin-bottom: 2rem;
+    cursor: default;
 }
 
 .experience-details-container {
@@ -372,6 +374,7 @@ article.icon {
 .project-title {
     margin: 1rem;
     color: black;
+    cursor: default;
 }
 
 .project-btn {
