@@ -291,14 +291,10 @@ section {
 }
 
 .arrow {
-    position: absolute;
-    bottom: 2rem;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 35px;
-    height: 35px;
-    cursor: pointer;
-    transition: transform 0.3s ease;
+  display: block;
+  margin: 40px auto 0 auto;
+  width: 30px;
+  cursor: pointer;
 }
 
 
